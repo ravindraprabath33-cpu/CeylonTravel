@@ -1,0 +1,6 @@
+{
+  "name": "Travel Ceylon - Bespoke Sri Lanka Expeditions",
+  "description": "Curated luxury travel, private tours, and authentic cultural journeys across the enchanted island of Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
